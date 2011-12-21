@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root>
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>T. Lucreti Cari De rerum natura</dc:title>
-    <dc:creator opf:file-as="Lucretius Carus, Titus" opf:role="aut">Titus Lucretius Carus</dc:creator>
-    <dc:language>la</dc:language>
-    <dc:identifier id="bookid">rernat9079392</dc:identifier>
-    <dc:rights>Public Domain</dc:rights>
+  <metadata>
+    <meta name="title" content="T. Lucreti Cari De rerum natura"/>
+    <meta name="creator" content="Titus Lucretius Carus"/>
+    <meta name="language" content="la"/>
+    <meta name="identifier" content="rernat9079392"/>
+    <meta name="rights" content="Public Domain"/>
   </metadata>
   <chapter label="Liber Primus">Liber Primus</chapter>
   <verse>
