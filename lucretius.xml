@@ -8,7 +8,7 @@
     <meta name="rights" content="Public Domain"/>
   </metadata>
   <chapter label="Liber Primus">Liber Primus</chapter>
-  <verse>
+  <verse ln="1">
     <l>Aeneadum genetrix, hominum divomque voluptas,</l>
     <l>alma Venus, caeli subter labentia signa</l>
     <l>quae mare navigerum, quae terras frugiferentis</l>
@@ -22,9 +22,9 @@
     <l>et reserata viget genitabilis aura favoni,</l>
     <l>aeriae primum volucris te, diva, tuumque</l>
     <l>significant initum perculsae corda tua vi.</l>
-    <l>inde ferae pecudes persultant pabula laeta</l>
-    <l>et rapidos tranant amnis: ita capta lepore</l>
-    <l>te sequitur cupide quo quamque inducere pergis.</l>
+    <l ln="15">inde ferae pecudes persultant pabula laeta</l>
+    <l ln="14">et rapidos tranant amnis: ita capta lepore</l>
+    <l ln="16">te sequitur cupide quo quamque inducere pergis.</l>
     <l>denique per maria ac montis fluviosque rapacis</l>
     <l>frondiferasque domos avium camposque virentis</l>
     <l>omnibus incutiens blandum per pectora amorem</l>
@@ -58,7 +58,7 @@
     <l>nam privata dolore omni, privata periclis,</l>
     <l>ipsa suis pollens opibus, nihil indiga nostri,</l>
     <l>nec bene promeritis capitur nec tangitur ira.</l>
-    <l>Humana ante oculos foede cum vita iaceret</l>
+    <l ln="62">Humana ante oculos foede cum vita iaceret</l>
     <l>in terris oppressa gravi sub religione,</l>
     <l>quae caput a caeli regionibus ostendebat</l>
     <l>horribili super aspectu mortalibus instans,</l>
@@ -132,7 +132,7 @@
     <l>terrificet morbo adfectis somnoque sepultis,</l>
     <l>cernere uti videamur eos audireque coram,</l>
     <l>morte obita quorum tellus amplectitur ossa.</l>
-    <l>Quod super est, vacuas auris animumque sagacem</l>
+    <l ln="50">Quod super est, vacuas auris animumque sagacem</l>
     <l>semotum a curis adhibe veram ad rationem,</l>
     <l>ne mea dona tibi studio disposta fideli,</l>
     <l>intellecta prius quam sint, contempta relinquas.</l>
@@ -144,7 +144,7 @@
     <l>reddunda in ratione vocare et semina rerum</l>
     <l>appellare suemus et haec eadem usurpare</l>
     <l>corpora prima, quod ex illis sunt omnia primis.</l>
-    <l>Nec me animi fallit Graiorum obscura reperta</l>
+    <l ln="136">Nec me animi fallit Graiorum obscura reperta</l>
     <l>difficile inlustrare Latinis versibus esse,</l>
     <l>multa novis verbis praesertim cum sit agendum</l>
     <l>propter egestatem linguae et rerum novitatem;</l>
@@ -163,11 +163,11 @@
     <l>quod multa in terris fieri caeloque tuentur,</l>
     <l>quorum operum causas nulla ratione videre</l>
     <l>possunt ac fieri divino numine rentur.</l>
-    <l>quas ob res ubi viderimus nil posse creari</l>
+    <l ln="156">quas ob res ubi viderimus nil posse creari</l>
     <l>de nihilo, tum quod sequimur iam rectius inde</l>
     <l>perspiciemus, et unde queat res quaeque creari</l>
-    <l>et quo quaeque modo fiant opera sine divom.</l>
-    <l>Nam si de nihilo fierent, ex omnibus rebus</l>
+    <l ln="155">et quo quaeque modo fiant opera sine divom.</l>
+    <l ln="159">Nam si de nihilo fierent, ex omnibus rebus</l>
     <l>omne genus nasci posset, nil semine egeret.</l>
     <l>e mare primum homines, e terra posset oriri</l>
     <l>squamigerum genus et volucres erumpere caelo;</l>
@@ -869,7 +869,7 @@
     <l>crescere de nihilo testor res ante probatas.</l>
     <l>Praeterea quoniam cibus auget corpus alitque,</l>
     <l>scire licet nobis venas et sanguen et ossa</l>
-    * * *                                             860a
+    <l printlinenumber="860a">\* \* \*</l>
     <l>sive cibos omnis commixto corpore dicent</l>
     <l>esse et habere in se nervorum corpora parva</l>
     <l>ossaque et omnino venas partisque cruoris,</l>
@@ -1077,12 +1077,12 @@
     <l>illi cum videant solem, nos sidera noctis</l>
     <l>cernere et alternis nobiscum tempora caeli</l>
     <l>dividere et noctes parilis agitare diebus.</l>
-    <l>sed vanus stolidis haec * * *</l>
-    <l>amplexi quod habent perv * * *</l>
-    <l>nam medium nihil esse potest * * *</l>
+    <l>sed vanus stolidis haec \* \* \*</l>
+    <l>amplexi quod habent perv \* \* \*</l>
+    <l>nam medium nihil esse potest \* \* \*</l>
     <l>infinita; neque omnino, si iam medium sit,</l>
-    <l>possit ibi quicquam consistere * * *</l>
-    <l>quam quavis alia longe ratione * * *</l>
+    <l>possit ibi quicquam consistere \* \* \*</l>
+    <l>quam quavis alia longe ratione \* \* \*</l>
     <l>omnis enim locus ac spatium, quod inane vocamus,</l>
     <l>per medium, per non medium, concedere debet</l>
     <l>aeque ponderibus, motus qua cumque feruntur.</l>
@@ -1094,17 +1094,17 @@
     <l>res in concilium medii cuppedine victae.</l>
     <l>Praeterea quoniam non omnia corpora fingunt</l>
     <l>in medium niti, sed terrarum atque liquoris</l>
-    <l>umorem ponti magnasque e montibus undas,</l>
-    <l>et quasi terreno quae corpore contineantur,</l>
-    <l>at contra tenuis exponunt aeris auras</l>
+    <l ln="1086">umorem ponti magnasque e montibus undas,</l>
+    <l ln="1085">et quasi terreno quae corpore contineantur,</l>
+    <l ln="1087">at contra tenuis exponunt aeris auras</l>
     <l>et calidos simul a medio differrier ignis,</l>
     <l>atque ideo totum circum tremere aethera signis</l>
     <l>et solis flammam per caeli caerula pasci,</l>
     <l>quod calor a medio fugiens se ibi conligat omnis,</l>
     <l>nec prorsum arboribus summos frondescere ramos</l>
     <l>posse, nisi a terris paulatim cuique cibatum</l>
-    * * *                                             1094-
-    <l>ne volucri ritu flammarum moenia mundi</l>
+    <l>\* \* \*</l>
+    <l ln="1102">ne volucri ritu flammarum moenia mundi</l>
     <l>diffugiant subito magnum per inane soluta</l>
     <l>et ne cetera consimili ratione sequantur</l>
     <l>neve ruant caeli tonitralia templa superne</l>
@@ -1122,14 +1122,14 @@
     <l>pervideas: ita res accendent lumina rebus.</l>
   </verse>
   <chapter label="Liber Secundus">Liber Secundus</chapter>
-  <verse>
+  <verse ln="1">
     <l>Suave, mari magno turbantibus aequora ventis</l>
     <l>e terra magnum alterius spectare laborem;</l>
     <l>non quia vexari quemquamst iucunda voluptas,</l>
     <l>sed quibus ipse malis careas quia cernere suavest.</l>
-    <l>suave etiam belli certamina magna tueri</l>
-    <l>per campos instructa tua sine parte pericli;</l>
-    <l>sed nihil dulcius est, bene quam munita tenere</l>
+    <l ln="6">suave etiam belli certamina magna tueri</l>
+    <l ln="5">per campos instructa tua sine parte pericli;</l>
+    <l ln="7">sed nihil dulcius est, bene quam munita tenere</l>
     <l>edita doctrina sapientum templa serena,</l>
     <l>despicere unde queas alios passimque videre</l>
     <l>errare atque viam palantis quaerere vitae,</l>
@@ -1287,8 +1287,8 @@
     <l>et multo citius ferri quam lumina solis</l>
     <l>multiplexque loci spatium transcurrere eodem</l>
     <l>tempore quo solis pervolgant fulgura caelum.</l>
-    * * *                                             164ax
-    <l>nec persectari primordia singula quaeque,</l>
+    <l printlinenumber="164a">\* \* \*</l>
+    <l ln="165">nec persectari primordia singula quaeque,</l>
     <l>ut videant qua quicque geratur cum ratione.</l>
     <l>At quidam contra haec, ignari materiai,</l>
     <l>naturam non posse deum sine numine reddunt</l>
@@ -1589,8 +1589,8 @@
     <l>non e perplexis, sed acutis esse elementis.</l>
     <l>sed quod amara vides eadem quae fluvida constant,</l>
     <l>sudor uti maris est, minime mirabile debet</l>
-    * * *                                             465a
-    <l>nam quod fluvidus est, e levibus atque rotundis</l>
+    <l printlinenumber="465a">\* \* \*</l>
+    <l ln="466">nam quod fluvidus est, e levibus atque rotundis</l>
     <l>est, sed levibus sunt hamata admixta doloris</l>
     <l>corpora. nec tamen haec retineri hamata necessust:</l>
     <l>scilicet esse globosa tamen, cum squalida constent,</l>
@@ -1653,8 +1653,8 @@
     <l>formarum finita, necesse est quae similes sint</l>
     <l>esse infinitas aut summam materiai</l>
     <l>finitam constare, id quod non esse probavi.</l>
-    <l>* * *</l>
-    <l>versibus ostendam corpuscula materiai</l>
+    <l printlinenumber="528a">\* \* \*</l>
+    <l ln="529">versibus ostendam corpuscula materiai</l>
     <l>ex infinito summam rerum usque tenere</l>
     <l>undique protelo plagarum continuato.</l>
     <l>nam quod rara vides magis esse animalia quaedam</l>
@@ -1785,8 +1785,8 @@
     <l>mavolt quam laticis proprium proferre vocamen,</l>
     <l>concedamus ut hic terrarum dictitet orbem</l>
     <l>esse deum matrem, dum vera re tamen ipse</l>
-    <l>religione animum turpi contingere parcat.</l>
-    <l>Saepe itaque ex uno tondentes gramina campo</l>
+    <l ln="680">religione animum turpi contingere parcat.</l>
+    <l ln="660">Saepe itaque ex uno tondentes gramina campo</l>
     <l>lanigerae pecudes et equorum duellica proles</l>
     <l>buceriaeque greges eodem sub tegmine caeli</l>
     <l>ex unoque sitim sedantes flumine aquai</l>
@@ -1806,7 +1806,7 @@
     <l>invenies igitur multarum semina rerum</l>
     <l>corpore celare et varias cohibere figuras.</l>
     <l>Denique multa vides, quibus et color et sapor una</l>
-    <l>reddita sunt cum odore in primis pleraque poma.</l>
+    <l ln="681">reddita sunt cum odore in primis pleraque poma.</l>
     <l>haec igitur variis debent constare figuris;</l>
     <l>nidor enim penetrat qua fucus non it in artus,</l>
     <l>fucus item sorsum, sorsum sapor insinuatur</l>
@@ -2029,8 +2029,8 @@
     <l>conciliantur ita ut debent animalia gigni.</l>
     <l>Deinde ex sensilibus qui sensile posse creari</l>
     <l>constituunt, porro ex aliis sentire sueti</l>
-    * * *                                             903a
-    <l>mollia cum faciunt; nam sensus iungitur omnis</l>
+    <l printlinenumber="903a">\* \* \*</l>
+    <l ln="904">mollia cum faciunt; nam sensus iungitur omnis</l>
     <l>visceribus nervis venis, quae cumque videmus</l>
     <l>mollia mortali consistere corpore creta.</l>
     <l>sed tamen esto iam posse haec aeterna manere;</l>
@@ -2401,7 +2401,7 @@
     <l>in quo consilium vitae regimenque locatum est,</l>
     <l>esse hominis partem nihilo minus ac manus et pes</l>
     <l>atque oculei partes animantis totius extant.</l>
-    * * *
+    \* \* \*
     <l>sensum animi certa non esse in parte locatum,</l>
     <l>verum habitum quendam vitalem corporis esse,</l>
     <l>harmoniam Grai quam dicunt, quod faciat nos</l>
@@ -3129,7 +3129,7 @@
     <l>aut quia non veniunt omnino aliena salutis,</l>
     <l>aut quia quae veniunt aliqua ratione recedunt</l>
     <l>pulsa prius quam quid noceant sentire queamus,</l>
-    * * *
+    \* \* \*
     <l>praeter enim quam quod morbis cum corporis aegret,</l>
     <l>advenit id quod eam de rebus saepe futuris</l>
     <l>macerat inque metu male habet curisque fatigat,</l>
@@ -3403,7 +3403,7 @@
     <l>mensibus atque annis qui multis occidit ante.</l>
   </verse>
   <chapter label="Liber Tertius">Liber Quartus</chapter>
-  <verse>
+  <verse ln="1">
     <l>Avia Pieridum peragro loca nullius ante</l>
     <l>trita solo. iuvat integros accedere fontis</l>
     <l>atque haurire, iuvatque novos decerpere flores</l>
@@ -3530,7 +3530,7 @@
     <l>expirant acrem, panaces absinthia taetra</l>
     <l>habrotonique graves et tristia centaurea,</l>
     <l>quorum unum quidvis leviter si forte duobus</l>
-    * * *
+    \* \* \*
     <l>quin potius noscas rerum simulacra vagari</l>
     <l>multa modis multis, nulla vi cassaque sensu?</l>
     <l>Sed ne forte putes ea demum sola vagari,</l>
@@ -3549,7 +3549,7 @@
     <l>et cuiusque modi formarum vertere in oras.</l>
     <l>Nunc ea quam facili et celeri ratione genantur</l>
     <l>perpetuoque fluant ab rebus lapsaque cedant</l>
-    * * *
+    \* \* \*
     <l>semper enim summum quicquid de rebus abundat,</l>
     <l>quod iaculentur. et hoc alias cum pervenit in res,</l>
     <l>transit, ut in primis vestem; sed ubi aspera saxa</l>
@@ -3695,7 +3695,7 @@
     <l>et facit ut prius hunc quam se videamus, eoque</l>
     <l>distare ab speculo tantum semota videtur.</l>
     <l>quare etiam atque etiam minime mirarier est par</l>
-    * * *
+    \* \* \*
     <l>illis quae reddunt speculorum ex aequore visum,</l>
     <l>aëribus binis quoniam res confit utraque.</l>
     <l>Nunc ea quae nobis membrorum dextera pars est,</l>
@@ -4696,7 +4696,7 @@
     <l>umoris longo in spatio pertundere saxa?</l>
   </verse>
   <chapter label="Liber Tertius">Liber Quintus</chapter>
-  <verse>
+  <verse ln="1">
     <l>Quis potis est dignum pollenti pectore carmen</l>
     <l>condere pro rerum maiestate hisque repertis?</l>
     <l>quisve valet verbis tantum, qui fingere laudes</l>
@@ -5709,7 +5709,7 @@
     <l>vergebant, nunc dant [aliis] sollertius ipsi.</l>
     <l>Inde casas postquam ac pellis ignemque pararunt</l>
     <l>et mulier coniuncta viro concessit in unum</l>
-    * * *
+    \* \* \*
     <l>cognita sunt, prolemque ex se videre creatam,</l>
     <l>tum genus humanum primum mollescere coepit.</l>
     <l>ignis enim curavit, ut alsia corpora frigus</l>
@@ -6157,7 +6157,7 @@
     <l>artibus ad summum donec venere cacumen.</l>
   </verse>
   <chapter label="Liber Tertius">Liber Sextus</chapter>
-  <verse>
+  <verse ln="1">
     <l>Primae frugiparos fetus mortalibus aegris</l>
     <l>dididerunt quondam praeclaro nomine Athenae</l>
     <l>et recreaverunt vitam legesque rogarunt</l>
@@ -6205,14 +6205,14 @@
     <l>et quae cumque in eo fiunt fierique necessest</l>
     <l>pleraque dissolui, qui restant percipe porro,</l>
     <l>quandoquidem semel insignem conscendere currum</l>
-    * * *
+    \* \* \*
     <l>tu mihi supremae praescripta ad candida callis</l>
     <l>currenti spatium praemonstra, callida musa</l>
     <l>Calliope, requies hominum divomque voluptas,</l>
     <l>te duce ut insigni capiam cum laude coronam.</l>
-    * * *
+    \* \* \*
     <l>ventorum existant, placentur [ut] omnia rursum</l>
-    * * *
+    \* \* \*
     <l>quae fuerint, sint placato conversa furore.</l>
     <l>cetera quae fieri in terris caeloque tuentur</l>
     <l>mortales, pavidis cum pendent mentibus saepe</l>
@@ -6770,7 +6770,7 @@
     <l>ne pedibus raptim tellus subtracta feratur</l>
     <l>in barathrum rerumque sequatur prodita summa</l>
     <l>funditus et fiat mundi confusa ruina.</l>
-    * * *
+    \* \* \*
     <l>Principio mare mirantur non reddere maius</l>
     <l>naturam, quo sit tantus decursus aquarum,</l>
     <l>omnia quo veniant ex omni flumina parte.</l>
@@ -6861,7 +6861,7 @@
     <l>radices frangit fluctus aestumque resolvit.</l>
     <l>ex hoc usque mari speluncae montis ad altas</l>
     <l>perveniunt subter fauces. hac ire fatendumst</l>
-    * * *
+    \* \* \*
     <l>et penetrare mari penitus res cogit aperto</l>
     <l>atque efflare foras ideoque extollere flammam</l>
     <l>saxaque subiectare et arenae tollere nimbos.</l>
@@ -7004,7 +7004,7 @@
     <l>scilicet in terram delabi pondere cogit</l>
     <l>natura, et vacuum prope iam per inane iacentes</l>
     <l>dispergunt animas per caulas corporis omnis.</l>
-    * * *
+    \* \* \*
     <l>frigidior porro in puteis aestate fit umor,</l>
     <l>arescit quia terra calore et semina si qua</l>
     <l>forte vaporis habet proprie, dimittit in auras.</l>
